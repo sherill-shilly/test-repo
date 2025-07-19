@@ -7,3 +7,9 @@
 ```
 https://medium.com/@vijaygiduthuri67/google-cloud-project-c44cee552094
 ```
+
+### Helm Chart Repo url:
+
+```
+https://github.com/vijaygiduthuri/test-k8s.git
+```
