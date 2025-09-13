@@ -155,7 +155,7 @@ pipeline {
 
         stage('Updated Image tag for CD') {
             steps {
-                echo 'Successfully updated Docker Image tag for Continuous Deployment testtest'
+                echo 'Successfully updated Docker Image tag for Continuous Deployment'
             }
         }
     }
